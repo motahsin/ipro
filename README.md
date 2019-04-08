@@ -1,2 +1,0 @@
-# ipro
-InfoProjekt K2
